@@ -2,7 +2,7 @@
 <h2 align="center">HooBank - Modern UI/UX website using React.js & Tailwind CSS</h2>
 <div align="center">
   <br />
-  <img src="" alt="Project Banner">
+  <img src="https://github.com/Rotaralexc/hoobank/blob/71b37671cab304a3665112bf1c1259f5f13c4d09/hoobank.png" alt="Project Banner">
   <br />  
 
 <h2 align="center">DEMO</h2>
